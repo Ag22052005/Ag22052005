@@ -6,8 +6,7 @@
 </p>
 
 🎓 I'm a Computer Engineering undergrad specializing in Artificial Intelligence and Data Science at **Thadomal Shahani Engineering College** (2022–2026).  
-🔭 I’m passionate about building intelligent, scalable products with seamless UI/UX.  
-📍 Based in Mumbai | 🚀 Open to Internships & Collaborations  
+🔭 I’m passionate about building intelligent, scalable products with seamless UI/UX.   
 📫 Reach me at: ashish279338@gmail.com  
 
 ---
@@ -66,9 +65,3 @@
 > 🔗 [Code](https://github.com/Ag22052005/QuickTalk)
 
 ---
-
-
-## 🏆 Achievements
-
-- 🥈 Finalist – Mumbai Hacks 2024 (Entertainment Track)
-- 🧩 Solved 300+ Leetcode Problems – [Check Profile](https://leetcode.com/u/ashishh_guptaaa/)
