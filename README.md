@@ -71,4 +71,4 @@
 ## 🏆 Achievements
 
 - 🥈 Finalist – Mumbai Hacks 2024 (Entertainment Track)
-- 🧩 Solved 300+ Leetcode Problems – [Check Profile](https://leetcode)
+- 🧩 Solved 300+ Leetcode Problems – [Check Profile](https://leetcode.com/u/ashishh_guptaaa/)
